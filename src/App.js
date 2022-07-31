@@ -4,7 +4,7 @@ import Header from './component/header';
 import Footer from './component/footer';
 import Main from './component/main';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Selectedbeast from './component/SelectedBeast';
+
 
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
         <Header/>
         
         <Main/>
-        <Selectedbeast/>
+        
 
         <Footer/>
         
